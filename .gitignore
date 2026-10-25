@@ -42,3 +42,7 @@ target/
 *.iml
 .DS_Store
 package-lock.json
+
+.mvn/
+mvnw
+mvnw.cmd
